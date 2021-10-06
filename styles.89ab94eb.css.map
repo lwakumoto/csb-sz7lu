@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,sBACF,CAEA,YACE,qBACF","file":"styles.89ab94eb.css","sourceRoot":"..","sourcesContent":["body {\n  font-family: sans-serif;\n}\n\n#gamescreen {\n  border: 2px solid black;\n}\n"]}
